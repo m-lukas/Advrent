@@ -18,7 +18,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Gruenau_3_4',
             description: 'Grünau, 3.4.2021',
-            special: 'Ü-Eier',
+            special: 'Raffaello Schoko',
           }}
         />
         <Door
@@ -30,7 +30,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Helsinki_17_7',
             description: 'Helsinki, 17.7.2021',
-            special: 'Ü-Eier',
+            special: 'Cranberry Cookies',
           }}
         />
         <Door
@@ -42,7 +42,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Kamenz_23_9_2',
             description: 'Kamenz, 23.9.2021',
-            special: 'Ü-Eier',
+            special: 'Apfellinge',
           }}
         />
       </View>
@@ -56,7 +56,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Mitte_24_10',
             description: 'Mitte, 24.10.2021',
-            special: 'Ü-Eier',
+            special: 'Koalas',
           }}
         />
         <Door
@@ -68,7 +68,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Marzahn_25_4_1',
             description: 'Marzahn, 25.4.2021',
-            special: 'Ü-Eier',
+            special: 'Dominos',
           }}
         />
         <Door
@@ -80,7 +80,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Kamenz_25_9',
             description: 'Kamenz, 25.9.2021',
-            special: 'Ü-Eier',
+            special: 'Kesselnüsse',
           }}
         />
       </View>
@@ -94,7 +94,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Lichtenberg_27_4',
             description: 'Lichtenberg, 27.4.2021',
-            special: 'Ü-Eier',
+            special: 'Oreos',
           }}
         />
         <Door
@@ -106,7 +106,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Kamenz_28_3',
             description: 'Kamenz, 28.3.2021',
-            special: 'Ü-Eier',
+            special: 'Halloren Kugeln',
           }}
         />
         <Door
@@ -118,7 +118,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Marzahn_25_4_2',
             description: 'Marzahn, 25.4.2021',
-            special: 'Ü-Eier',
+            special: 'Manner Schnitten',
           }}
         />
       </View>
@@ -132,7 +132,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Spindlersfeld_16_4',
             description: 'Spindlersfeld, 16.4.2021',
-            special: 'Ü-Eier',
+            special: 'Schoko-Weihnachtsmenschen',
           }}
         />
         <Door
@@ -144,7 +144,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Treptow_10_10',
             description: 'Treptow, 10.10.2021',
-            special: 'Ü-Eier',
+            special: 'Plantygon 🌱',
           }}
         />
         <Door
@@ -156,7 +156,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Tempelhof_27_6',
             description: 'Tempelhof, 27.6.2021',
-            special: 'Ü-Eier',
+            special: 'Müsli-Riegel',
           }}
         />
       </View>
@@ -170,7 +170,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Tampere_20_7_2',
             description: 'Tampere, 20.7.2021',
-            special: 'Ü-Eier',
+            special: 'Milka-Tafel',
           }}
         />
         <Door
@@ -182,7 +182,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Mitte_13_10',
             description: 'Mitte, 13.10.2021',
-            special: 'Ü-Eier',
+            special: 'Sternen-Kekse',
           }}
         />
         <Door
@@ -194,7 +194,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Helsinki_19_7',
             description: 'Helsinki, 19.7.2021',
-            special: 'Ü-Eier',
+            special: 'Katzenzungen',
           }}
         />
       </View>
@@ -208,7 +208,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Neukoelln_30_10',
             description: 'Neukölln, 30.10.2021',
-            special: 'Ü-Eier',
+            special: 'Chiiiiiiips',
           }}
         />
         <Door
@@ -232,7 +232,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Schoeneweide_1_1',
             description: 'Schöneweide, 1.1.2021',
-            special: 'Ü-Eier',
+            special: 'Ingwer-Honig-Fruchtgummis',
           }}
         />
       </View>
@@ -246,7 +246,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Marzahn_25_4_3',
             description: 'Marzahn, 25.4.2021',
-            special: 'Ü-Eier',
+            special: 'Soft-Cakes',
           }}
         />
         <Door
@@ -258,7 +258,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Friedrichshain_10_4',
             description: 'Friedrichshain, 10.4.2021',
-            special: 'Ü-Eier',
+            special: 'nucao - Rosted Hazelnut',
           }}
         />
         <Door
@@ -270,7 +270,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Schwerin_16_5',
             description: 'Schwerin, 16.5.2021',
-            special: 'Ü-Eier',
+            special: 'Haribos',
           }}
         />
       </View>
@@ -284,7 +284,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Schönefeld_23_11',
             description: 'Schönefeld, 23.11.2021',
-            special: 'Ü-Eier',
+            special: '???',
           }}
         />
         <Door
@@ -296,7 +296,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Treptow_14_2',
             description: 'Treptow, 14.2.2021',
-            special: 'Ü-Eier',
+            special: 'Honig-Salz-Mandel',
           }}
         />
         <Door
@@ -308,7 +308,7 @@ const Wall = ({navigation}) => {
           content={{
             img: 'Mitte_24_10_2',
             description: 'Mitte, 24.10.2021',
-            special: 'Ü-Eier',
+            special: 'Toblerone',
           }}
         />
       </View>
