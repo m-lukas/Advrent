@@ -14,7 +14,7 @@ const Door = ({navigation, color, number, day, size, content}) => {
   }
 
   const open = () => {
-    let supposedDate = new Date(`2021-11-${day}`);
+    let supposedDate = new Date(`2021-12-${day}`);
     let currentDate = new Date();
 
     if (currentDate < supposedDate) {
