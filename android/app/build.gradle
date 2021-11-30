@@ -152,6 +152,14 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+        release {
+            if (project.hasProperty('KEYSTORE_FILE')) {
+                storeFile file(KEYSTORE_FILE)
+                storePassword KEYSTORE_PASSWORD
+                keyAlias KEY_ALIAS
+                keyPassword KEY_PASSWORD
+            }
+        }
     }
     buildTypes {
         debug {

@@ -27,6 +27,12 @@ const Content = ({navigation, route}) => {
     Tampere_20_7: require('../images/Tampere_20_7.jpg'),
     Tempelhof_27_6: require('../images/Tempelhof_27_6.jpg'),
     Treptow_14_2: require('../images/Treptow_14_2.jpg'),
+    Friedrichshain_10_4: require('../images/Friedrichshain_10_4.jpg'),
+    Kamenz_28_3: require('../images/Kamenz_28_3.jpg'),
+    Mitte_24_10_2: require('../images/Mitte_24_10_2.jpg'),
+    Schönefeld_23_11: require('../images/Schönefeld_23_11.jpg'),
+    Treptow_10_10: require('../images/Treptow_10_10.jpg'),
+    Schwerin_16_5: require('../images/Schwerin_16_5.jpg'),
   };
 
   let file = images.Neukoelln_30_10;

@@ -62,3 +62,4 @@ buck-out/
 images
 android/app/src/main/assets
 android/app/src/main/res/*/images*
+gradle.properties

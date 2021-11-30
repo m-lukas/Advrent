@@ -40,8 +40,8 @@ const Wall = ({navigation}) => {
           day="08"
           size={2}
           content={{
-            img: 'Helsinki_19_7',
-            description: 'Helsinki, 19.7.2021',
+            img: 'Kamenz_23_9_2',
+            description: 'Kamenz, 23.9.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -54,8 +54,8 @@ const Wall = ({navigation}) => {
           day="18"
           size={1}
           content={{
-            img: 'Kamenz_23_9_2',
-            description: 'Kamenz, 23.9.2021',
+            img: 'Mitte_24_10',
+            description: 'Mitte, 24.10.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -66,8 +66,8 @@ const Wall = ({navigation}) => {
           day="03"
           size={1}
           content={{
-            img: 'Kamenz_23_9',
-            description: 'Kamenz, 23.9.2021',
+            img: 'Marzahn_25_4_1',
+            description: 'Marzahn, 25.4.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -104,8 +104,8 @@ const Wall = ({navigation}) => {
           day="12"
           size={2}
           content={{
-            img: 'Marzahn_25_4_1',
-            description: 'Marzahn, 25.4.2021',
+            img: 'Kamenz_28_3',
+            description: 'Kamenz, 28.3.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -130,8 +130,8 @@ const Wall = ({navigation}) => {
           day="22"
           size={3}
           content={{
-            img: 'Marzahn_25_4_3',
-            description: 'Marzahn, 25.4.2021',
+            img: 'Spindlersfeld_16_4',
+            description: 'Spindlersfeld, 16.4.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -142,8 +142,8 @@ const Wall = ({navigation}) => {
           day="06"
           size={1}
           content={{
-            img: 'Marzahn_25_4_4',
-            description: 'Marzahn, 25.4.2021',
+            img: 'Treptow_10_10',
+            description: 'Treptow, 10.10.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -154,8 +154,8 @@ const Wall = ({navigation}) => {
           day="13"
           size={1}
           content={{
-            img: 'Marzahn_25_4_5',
-            description: 'Marzahn, 25.4.2021',
+            img: 'Tempelhof_27_6',
+            description: 'Tempelhof, 27.6.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -168,8 +168,8 @@ const Wall = ({navigation}) => {
           day="10"
           size={1}
           content={{
-            img: 'Mitte_12_6',
-            description: 'Mitte, 12.6.2021',
+            img: 'Tampere_20_7_2',
+            description: 'Tampere, 20.7.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -192,8 +192,8 @@ const Wall = ({navigation}) => {
           day="05"
           size={1}
           content={{
-            img: 'Mitte_24_10',
-            description: 'Mitte, 24.10.2021',
+            img: 'Helsinki_19_7',
+            description: 'Helsinki, 19.7.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -244,8 +244,8 @@ const Wall = ({navigation}) => {
           day="09"
           size={2}
           content={{
-            img: 'Spindlersfeld_16_4',
-            description: 'Spindlersfeld, 16.4.2021',
+            img: 'Marzahn_25_4_3',
+            description: 'Marzahn, 25.4.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -256,8 +256,8 @@ const Wall = ({navigation}) => {
           day="14"
           size={1}
           content={{
-            img: 'Tampere_20_7_2',
-            description: 'Tampere, 20.7.2021',
+            img: 'Friedrichshain_10_4',
+            description: 'Friedrichshain, 10.4.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -268,8 +268,8 @@ const Wall = ({navigation}) => {
           day="02"
           size={1}
           content={{
-            img: 'Tampere_20_7',
-            description: 'Tampere, 20.7.2021',
+            img: 'Schwerin_16_5',
+            description: 'Schwerin, 16.5.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -282,8 +282,8 @@ const Wall = ({navigation}) => {
           day="24"
           size={3}
           content={{
-            img: 'Tempelhof_27_6',
-            description: 'Tempelhof, 27.6.2021',
+            img: 'Schönefeld_23_11',
+            description: 'Schönefeld, 23.11.2021',
             special: 'Ü-Eier',
           }}
         />
@@ -306,8 +306,8 @@ const Wall = ({navigation}) => {
           day="11"
           size={1}
           content={{
-            img: 'Gruenau_3_4',
-            description: 'Grünau, 3.4.2021',
+            img: 'Mitte_24_10_2',
+            description: 'Mitte, 24.10.2021',
             special: 'Ü-Eier',
           }}
         />
