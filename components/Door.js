@@ -20,7 +20,7 @@ const Door = ({navigation, color, number, day, size, content}) => {
     if (currentDate < supposedDate) {
       Alert.alert('Not yet 😝');
     } else {
-      navigation.navigate('Content', {content: content});
+      navigation.navigate('Content', {content: content, color: color});
     }
   };
 
